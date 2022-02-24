@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TcpClient/TcpClient.iml" filepath="$PROJECT_DIR$/TcpClient/TcpClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TcpServer/TcpServer.iml" filepath="$PROJECT_DIR$/TcpServer/TcpServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dz_5_tcp_ip.iml" filepath="$PROJECT_DIR$/dz_5_tcp_ip.iml" />
+    </modules>
+  </component>
+</project>
